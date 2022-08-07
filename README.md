@@ -1,7 +1,3 @@
-- Hi, I’m @lukascobit
+## Hi, I’m @lukascobit aka *divear* aka *lukas_getout*
 
-
-<!---
-lukascobit/lukascobit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### i code mostly in *typescript* and *javascript*, but i've been also trying some *rust* stuff. 
