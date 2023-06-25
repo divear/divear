@@ -1,1 +1,1 @@
-## Hi, I’m lukascobit aka *divear*
+## Hi, I’m divear*
